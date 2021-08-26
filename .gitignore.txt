@@ -1,2 +1,2 @@
 /.ipynb_checkpoints
-fuel_ferc1
+fuel_ferc1.csv
